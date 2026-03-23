@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Undergrad, majoring in computer science<br>🤝Curious to learn and contribute to open-source<br>🤖ML Engineer enthusiast<br>🌱working on environment sustainability solutions<br>🐈Loves cats<br>✌️Peace<br>
+💻 Major in computer science<br>🤝Curious to learn and contribute to open-source<br>🤖ML Engineer enthusiast<br>🌱Working on environment sustainability solutions<br>🐈Loves cats<br>✌️Peace<br>
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ashrafshaik09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashrafshaik09&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafshaik09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ashrafshaik09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
